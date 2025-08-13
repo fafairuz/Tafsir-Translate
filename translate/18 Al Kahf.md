@@ -14,7 +14,7 @@ Korelasi Surah Al-Kahf dengan Surah al-Israa’ terlihat dalam beberapa sisi sep
 
 1. Surah Al-Israa’ dimulai dengan tasbih dan Surah al-Kahf dibuka dengan tahmid. Tasbih dan tahmid adalah dua kata yang selalu berjalan beriringan dalam Al-Quran dan dalam seluruh perkataan, biasanya tasbih mendahului tahmid. Contoh dalam firman Allah,
 
-    > "Oleh itu, bertasbihlah engkau dengan memuji Tuhanmu, serta jadilah dari orang-orang yang sujud." ([Al-Hijr: 98](https://quran.com/15/98)).
+    > Oleh itu, bertasbihlah engkau dengan memuji Tuhanmu, serta jadilah dari orang-orang yang sujud. ([Al-Hijr: 98](https://quran.com/15/98)).
 
     Dalam sebuah hadith, Surah Al-Israa’ juga diakhiri dengan tahmid sehingga kedua surah itu memiliki kesamaan.
 
