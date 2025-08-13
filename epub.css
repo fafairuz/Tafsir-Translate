@@ -1,0 +1,165 @@
+/* Main body styling */
+body {
+  margin: 5% 7%;
+  text-align: justify;
+  font-family: "Palatino", "Times New Roman", serif;
+  font-size: 1.1em;
+  line-height: 1.6;
+  color: #333333;
+}
+
+/* Headings */
+h1 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 2em;
+  color: #1a365d;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+  page-break-after: avoid;
+  border-bottom: 1px solid #1a365d;
+  padding-bottom: 0.3em;
+}
+
+h2 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.6em;
+  color: #2a4a73;
+  margin-top: 1.4em;
+  margin-bottom: 0.8em;
+  text-align: left;
+  page-break-after: avoid;
+}
+
+h3 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.3em;
+  color: #3a5e89;
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+  text-align: left;
+  page-break-after: avoid;
+}
+
+/* Links */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+/* Block elements */
+p {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+  orphans: 2;
+  widows: 2;
+}
+
+blockquote {
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+  border-left: 3px solid #1a365d;
+  padding-left: 1em;
+  font-style: italic;
+  color: #555;
+}
+
+/* Lists */
+ul, ol {
+  margin-left: 1.5em;
+  padding-left: 0.5em;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+/* Table of contents */
+nav#toc {
+  margin: 1em 0;
+  padding: 0.5em;
+  background-color: transparent;
+  border-radius: 0;
+  page-break-after: avoid !important;
+}
+
+nav#toc ol {
+  padding: 0;
+  margin-left: 1.5em;
+  margin-top: 0;
+}
+
+nav#toc ol li {
+  list-style-type: none;
+  margin: 0.4em 0;
+  padding: 0;
+  font-size: 0.9em;
+  line-height: 1.3;
+}
+
+/* Remove title from TOC */
+nav#toc > h1,
+nav > h1.title,
+nav > header > h1,
+[role="doc-toc"] > h1 {
+  display: none !important;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5em auto;
+}
+
+/* Title page styling */
+section.titlepage {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+section.titlepage h1.title {
+  font-size: 2.2em;
+  margin-top: 30%;
+  border-bottom: none;
+  text-align: center;
+}
+
+section.titlepage h2.author {
+  font-size: 1.5em;
+  font-weight: normal;
+  margin-top: 2em;
+  text-align: center;
+}
+
+/* Prevent page breaks after TOC */
+nav#toc, nav[role="doc-toc"] {
+  page-break-after: avoid !important;
+  break-after: avoid !important;
+}
+
+/* Fix for empty page after TOC */
+body > nav + section {
+  page-break-before: avoid !important;
+  break-before: avoid !important;
+}
+
+/* Chapter direct after TOC */
+body > nav + * {
+  page-break-before: avoid !important;
+  break-before: avoid !important;
+}
+
+/* Only force page breaks for chapters */
+h1 {
+  page-break-before: always !important;
+  break-before: always !important;
+}
+
+/* But don't force page break after TOC */
+nav + h1, nav + section h1:first-child {
+  page-break-before: avoid !important;
+  break-before: avoid !important;
+}
