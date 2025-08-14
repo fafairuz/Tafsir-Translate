@@ -107,7 +107,7 @@ Kemudian, surah ini menyebutkan tentang tauhid dan kekuasaan Allah SWT, serta me
 
 Dengan demikian, dapatlah diambil kesimpulan bahawa bahagian awal dan bahagian penutup Surah as-Sajdah mengukuhkan pokok-pokok aqidah seperti yang telah dinyatakan sebelum ini, iaitu tauhid, risalah, dan _ba’ts_ (kebangkitan).
 
-### PENGUKUHAN KENABIAN DAN KERASULAN
+# PENGUKUHAN KENABIAN DAN KERASULAN
 
 Surah as-Sajdah Ayat 1-3
 
@@ -115,7 +115,7 @@ Surah as-Sajdah Ayat 1-3
 >
 > Alif, Laam Miim. Diturunkan Al-Quran ini, dengan tidak ada sebarang syak padanya, dari Tuhan yang memelihara dan mentadbirkan sekalian alam. (Orang-orang kafir tidak mengakui hakikat yang demikian) bahkan mereka mengatakan: "Dia lah (Muhammad) yang mengada-adakan Al-Quran menurut rekaannya". (Dakwaan mereka itu tidaklah benar) bahkan Al-Quran ialah perkara yang benar dari Tuhanmu (wahai Muhammad), supaya engkau memberi ingatan dan amaran kepada kaum (mu) yang telah lama tidak didatangi sebarang pemberi ingatan dan amaran sebelummu, semoga mereka beroleh hidayah petunjuk. [As Sajdah:1-3](https://quran.com/32?startingVerse=1)
 
-### I‘raab
+## I‘raab
 
 Kata تَنزِيلُ ٱلكِتَٰبِ لَا رَيۡبَ فِيهِ مِن رَّبِّ ٱلعَٰلَمِينَ — تَنزِيلُ ٱلكِتَٰبِ menjadi mubtada’ (subjek), manakala لَا رَيۡبَ فِيهِ menjadi khabar (pemberitahu).
 
@@ -123,7 +123,7 @@ Boleh juga menjadikan kata ٱلكِتَٰبِ sebagai khabar (pemberitahu) kepad
 
 Kalimat لَا رَيۡبَ فِيهِ pula boleh berkedudukan sebagai ḥāl daripada kata ٱلكِتَٰبِ, dan kalimat مِن رَّبِّ ٱلعَٰلَمِينَ sebagai khabar (pemberitahu). Huruf jarr بِـ berta‘alluq dengan khabar (pemberitahu) yang dibuang. Namun jika kalimat لَا رَيۡبَ فِيهِ dijadikan sebagai khabar (pemberitahu), huruf jarr بِـ berta‘alluq dengan kata مِن رَّبِّكَ, dan kalimat ٱلكِتَٰبِ menjadi khabar (pemberitahu) kedua.
 
-### Mufradāt Lughawiyyah
+## Mufradāt Lughawiyyah
 
 الم – huruf-huruf hija’iyyah yang dijadikan sebagai pembuka sesuatu surah seperti ini, sebagaimana yang telah dijelaskan di bahagian terdahulu, bertujuan untuk mencabar dan menegaskan kemukjizatan al-Qur’an.
 
@@ -147,7 +147,7 @@ Setelah itu, dijelaskan pula maksud dan tujuan penurunan al-Qur’an, iaitu لِ
 
 [^24]: Am al-Munqaṭi‘ah ini ialah bentuk yang diandaikan mempunyai makna bal dan hamzah istifham, iaitu (بَلْ أَتَفْتَرَاهُ). Kata am di sini menunjukkan pengertian perpindahan daripada satu perbincangan kepada perbincangan yang lain.
 
-### Tafsir dan Penjelasan
+## Tafsir dan Penjelasan
 
 Surah ini dibuka dengan huruf-huruf hijaiyyah seperti ini, sebagaimana kebanyakan surah Makkiyyah yang lain, dengan tujuan menegaskan kemukjizatan al-Qur’an dan keagungannya, serta menolak pandangan golongan musyrik yang menafikan dan tidak mempercayai bahawa al-Qur’an adalah wahyu yang diturunkan daripada Allah SWT, serta mendustakan risalah Nabi Muhammad ﷺ.
 
@@ -171,7 +171,7 @@ Firman Allah SWT:
 >
 > Dan orang-orang yang kafir itu berkata: "(Al-Quran) ini hanyalah satu perkara dusta yang direka-reka oleh Muhammad, dan ia dibantu membuatnya oleh kaum yang lain". Maka (dengan kata-kata itu) sesungguhnya mereka telah mendatangkan satu tuduhan yang zalim dan dusta. [Al-Furqan:4](https://quran.com/25/4)
 
-### Fiqh Kehidupan dan Hukum-Hukum
+## Fiqh Kehidupan dan Hukum-Hukum
 
 Daripada ayat-ayat ini dapat difahami bahawa al-Qur’an adalah Kalam Allah SWT yang tidak diragui lagi datangnya daripada sisi-Nya. Al-Qur’an sama sekali bukan syair, ramalan atau cerita rekaan, tetapi wahyu yang suci.
 
@@ -180,3 +180,147 @@ Allah SWT menegaskan bahawa al-Qur’an adalah wahyu-Nya, yang kebenarannya tida
 Kemudian Allah SWT menolak tuduhan mereka dan menegaskan bahawa tuduhan itu hanyalah dusta, fitnah dan pembohongan semata-mata.
 
 Selepas itu, Allah SWT menjelaskan tugas dan misi al-Qur’an serta Nabi Muhammad ﷺ, iaitu memberi peringatan kepada golongan kafir tentang azab Allah SWT, termasuk golongan Quraisy. Qatadah, ketika menafsirkan ayat لِتُنذِرَ, berkata bahawa yang dimaksudkan ialah Quraisy, iaitu bangsa _ummiyyīn_ (yang belum pernah menerima peringatan daripada seorang nabi sebelum Nabi Muhammad ﷺ).
+
+# BUKTI-BUKTI TAUHID DAN KUASA ILAHI
+
+> اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ مَا لَكُم مِّن دُونِهِ مِن وَلِيٍّ وَلَا شَفِيعٍ أَفَلَا تَتَذَكَّرُونَ (٤) يُدَبِّرُ الْأَمْرَ مِنَ السَّمَاءِ إِلَى الْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ أَلْفَ سَنَةٍ مِّمَّا تَعُدُّونَ (٥) ذَٰلِكَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيزُ الرَّحِيمُ (٦) الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ وَبَدَأَ خَلْقَ الْإِنسَانِ مِن طِينٍ (٧) ثُمَّ جَعَلَ نَسْلَهُ مِن سُلَالَةٍ مِّن مَّاءٍ مَّهِينٍ (٨) ثُمَّ سَوَّاهُ وَنَفَخَ فِيهِ مِن رُّوحِهِ وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ قَلِيلًا مَّا تَشْكُرُونَ (٩)
+>
+> Allah Tuhan yang menciptakan langit dan bumi serta segala yang ada di antara keduanya dalam enam masa, kemudian Ia bersemayam di atas Arasy; kamu tidak akan beroleh sebarang penolong dan pemberi syafaat selain dari Allah; oleh itu tidakkah kamu mahu insaf dan mengambil iktibar (untuk mencapai keredaanNya)? (4) Allah mentadbirkan makhluk-makhlukNya; (bagi melaksanakan tadbirNya itu Ia menurunkan segala sebab dan peraturan) dari langit ke bumi; kemudian diangkat naik kepada pengetahuanNya (segala yang berlaku dari perlaksanaan tadbirNya itu untuk dihakimiNya) pada suatu masa yang (dirasai oleh orang-orang yang bersalah) banyak bilangan tahunnya menurut hitungan masa kamu yang biasa. (5) Yang demikian sifatnya ialah Tuhan yang mengetahui perkara-perkara yang ghaib dan yang nyata; Yang Maha Kuasa, lagi Maha Mengasihani; (6) Yang menciptakan tiap-tiap sesuatu dengan sebaik-baiknya, dan dimulakanNya kejadian manusia berasal dari tanah; (7) Kemudian Ia menjadikan keturunan manusia itu dari sejenis pati, iaitu dari air (benih) yang sedikit dipandang orang; (8) Kemudian Ia menyempurnakan kejadiannya, serta meniupkan padanya: roh ciptaanNya. Dan Ia mengurniakan kepada kamu pendengaran dan penglihatan serta hati (akal fikiran), (supaya kamu bersyukur, tetapi) amatlah sedikit kamu bersyukur. (9)
+
+## Qiraa’aat
+
+خَلَقَهُ dibaca:
+
+-   خَلَقَهُ – ini adalah qiraa’aat Nafi‘, ‘Ashim, Hamzah, al-Kisa’i, dan Khalaf.
+
+-   خَلَقْنَاهُ – ini adalah qiraa’aat imam sab‘ah yang lain.
+
+## I‘raab
+
+Huruf jarr بِـ dalam frasa بِوَلِيّٖ di sini adalah tambahan untuk menguatkan penafian yang sedia ada, yakni tiada satu pun penolong bagi kalian.
+
+Kata خَلَقَهُ adalah fi‘l maadhi (kata kerja lampau). Susunan kalimat خَلَقَهُ وَشَيۡءٍ أَتۡقَنَ كُلَّ شَيۡءٖ ini berkemungkinan berkedudukan i‘raab nasab sebagai sifat untuk kata وَلِيّٖ. Atau ia berkedudukan i‘raab jarr sebagai sifat untuk kata شَيۡءٖ, dan maknanya ialah (أَحْسَنَ كُلَّ شَيۡءٖ خَلَقَهُ).
+
+Bagi yang membaca dengan huruf lam disukunkan (خَلْقَهُ), kata ini menjadi badal isyti‘maal daripada kata كُلَّ شَيۡءٖ atau sebagai maf‘uul bihi kedua untuk fi‘l أَتۡقَنَ dengan menjadikannya seperti kata أَتۡقَنَهُمۡ, sehingga ia menjadi muta‘addī kepada dua maf‘uul bihi (kata kerja transitif).
+
+## Balaghah
+
+Antara kedua-dua kata ٱلۡهَيۡئَةِ وَٱلۡإِتۡقَانِ terdapat ath-Thibaaq (perlawanan makna).
+
+Dalam kalimat وَجَعَلَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَ قَلِيلٗا مَّا تَشۡكُرُونَ terdapat al-Iltifaat, iaitu peralihan bentuk daripada kalimat orang ketiga (ghaibah) kepada bentuk kalimat orang kedua (khithaab).
+
+Hal ini dilakukan untuk menyesuaikan dengan konteks yang wujud, di mana perkataan tersebut ditujukan kepada manusia yang telah dihidupkan dengan ditiupkan roh ke dalam dirinya beserta keturunannya.
+
+### Mufradaat Lughawiyyah
+
+فِي سِتَّةِ أَيَّامٍ – bermaksud “dalam enam hari”. Yang dimaksudkan ialah enam hari penciptaan alam semesta, bermula dari hari Ahad hingga hari Jumaat. Kata أَيَّامٍ adalah bentuk jamak bagi يَوْمٍ, yang dalam bahasa Arab bermakna sebahagian daripada satu hari, dan secara lebih umum digunakan bagi merujuk kepada tempoh masa. Maka yang dimaksudkan di sini ialah tempoh tertentu yang mengandungi ukuran masa yang telah Allah SWT tetapkan untuk menyempurnakan penciptaan-Nya.
+
+عَلَى ٱلۡعَرۡشِ – ‘Arsy ialah makhluk Allah SWT yang paling besar, iaitu singgahsana-Nya yang agung. Secara bahasa, ‘arsy membawa makna singgahsana seorang raja. Adapun istilah ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِ atau al-Istiwaa’ adalah bersemayamnya Allah SWT di atas ‘Arsy dengan cara yang layak bagi keagungan dan kesempurnaan-Nya, tanpa boleh ditentukan kaifiatnya dan tanpa penyerupaan dengan makhluk.
+
+مَا لَكُم مِّن وَلِيّٖ – bermaksud tiada bagi kalian walau seorang pun penolong, pelindung atau pemberi syafaat selain daripada Allah SWT. Hanya Dia-lah yang berkuasa mengurus dan memelihara segala kemaslahatan makhluk-Nya.
+
+قَلِيلٗا مَّا تَذَكَّرُونَ – merupakan teguran dan kecaman terhadap sikap lalai manusia, seolah-olah Allah SWT berfirman: “Tidakkah kalian mengambil pengajaran dan kesedaran daripada peringatan yang telah disampaikan kepada kalian, lalu kalian mahu beriman?”
+
+يُدَبِّرُ ٱلۡأَمۡرَ – Allah SWT mengatur, mengurus dan mentadbir segala urusan alam semesta sepanjang tempoh kewujudannya. Dialah yang mengelola, menjalankan, menata dan menyusun segala perkara di langit dan di bumi, termasuk segala yang berlaku di dalamnya, dengan pengaturan yang penuh kebijaksanaan dan hikmah.
+
+ثُمَّ يَعۡرُجُ إِلَيۡهِ ٱلۡأَمۡرُ – kemudian segala urusan itu kembali naik kepada-Nya untuk disempurnakan keputusan-Nya, dan segala ketetapan itu sudah termaktub dalam ilmu-Nya yang meliputi segala sesuatu.
+
+فِي يَوۡمٖ كَانَ مِقۡدَارُهُۥٓ أَلۡفَ سَنَةٖ مِّمَّا تَعُدُّونَ – berlaku dalam suatu tempoh masa yang panjang, kadarnya seperti seribu tahun menurut pengiraan manusia. Tempoh yang sangat panjang ini menggambarkan kedahsyatan keadaan pada Hari Kiamat bagi orang-orang kafir. Adapun bagi orang-orang Mukmin, tempoh itu terasa ringan dan singkat, malah lebih singkat daripada waktu yang diambil untuk menunaikan satu solat fardu di dunia, sebagaimana yang dijelaskan dalam hadis sahih.
+
+ذَٰلِكَ عَٰلِمُ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ ٱلۡعَزِيزُ ٱلرَّحِيمُ – Dialah Allah SWT yang Maha Mengetahui perkara ghaib dan perkara nyata, Maha Perkasa dalam kekuasaan-Nya, Maha Agung dalam kerajaan-Nya, berkuasa mutlak terhadap segala urusan-Nya, dan Maha Penyayang kepada hamba-hamba-Nya dengan pengaturan-Nya yang penuh kasih sayang serta mengandungi kemaslahatan bagi mereka.
+
+Al-Baidhawi menyebut bahawa dalam ayat ini terdapat isyarat bahawa Allah SWT memelihara kemaslahatan manusia dalam bentuk kebaikan, kemurahan dan anugerah-Nya yang berterusan.
+
+ٱلَّذِيٓ أَحۡسَنَ كُلَّ شَيۡءٍ خَلَقَهُۥ – Dia-lah yang menciptakan segala sesuatu dengan sebaik-baiknya, penuh ketelitian, kesempurnaan dan keseimbangan, sesuai dengan hikmah dan kemaslahatan yang telah ditetapkan-Nya.
+
+وَبَدَأَ خَلۡقَ ٱلۡإِنسَٰنِ مِن طِينٖ – dan Dia memulakan penciptaan manusia pertama, iaitu Nabi Adam AS, daripada tanah.
+
+ثُمَّ جَعَلَ نَسۡلَهُۥ مِن سُلَٰلَةٖ مِّن مَّآءٖ مَّهِينٖ – kemudian Dia menjadikan keturunan Adam daripada sulaalah iaitu air yang hina dan lemah, yakni air mani (nutfah).
+
+ثُمَّ سَوَّىٰهُ – kemudian Allah SWT membentuk dan menyempurnakan tubuhnya dengan sebaik-baik rupa dan melengkapkan anggota badannya mengikut ketentuan yang sempurna.
+
+وَنَفَخَ فِيهِ مِن رُّوحِهِۦ – lalu Allah SWT meniupkan kepadanya daripada roh-Nya sebagai tanda pemuliaan dan penghormatan kepada Adam dan keturunannya, menunjukkan mereka adalah makhluk yang mulia, istimewa dan berbeza daripada makhluk lain.
+
+وَجَعَلَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَ – dan Dia menjadikan bagi kalian pendengaran, penglihatan dan hati supaya kalian dapat mendengar, melihat dan memahami.
+
+قَلِيلٗا مَّا تَشۡكُرُونَ – sedikit sekali kalian bersyukur. Perkataan qaliilan di sini digunakan untuk menguatkan makna sedikit.
+
+## Persesuaian Ayat
+
+Setelah mengukuhkan kebenaran risalah dan kerasulan, Allah SWT menjelaskan perkara yang menjadi tugas dan kewajipan seorang Rasul, iaitu berdakwah mengajak manusia untuk mengesakan Allah SWT. Dalam hal ini, Allah SWT membekalkan kepadanya segala perkara yang diperlukan, berupa dalil-dalil dan bukti-bukti yang menguatkan kebenaran tersebut, bagi menyempurnakan tugas serta misinya.
+
+## Tafsir dan Penjelasan
+
+Firman Allah SWT: وَاللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ – Sesungguhnya Allah SWT, Dialah Pencipta segala sesuatu. Allah SWT mengadakan dan menciptakan langit dan bumi beserta segala yang ada di antara kedua-duanya tanpa sebarang contoh atau pola sebelumnya, dalam enam masa. Oleh itu, yang dimaksudkan dengan “أَيَّامٍ” (hari) di sini bukanlah hari sebagaimana yang kita kenal dan lalui di dunia ini, kerana sebelum penciptaan langit dan bumi belum wujud siang dan malam.
+
+Menurut Hasan al-Bashri, yang dimaksudkan adalah enam hari dari hari-hari dunia, iaitu hari-hari yang kita kenali sekarang. Sekiranya Allah SWT berkehendak, Dia mampu menciptakan semuanya dalam sekelip mata, namun Allah SWT hendak mengajar hamba-Nya mengenai sikap tenang, berhemah, bijaksana, dan tidak tergesa-gesa dalam menguruskan pelbagai urusan.
+
+Firman Allah SWT: ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ – Allah SWT menguasai, mengatur, dan memegang tampuk kekuasaan-Nya, mengendalikan segala urusan serta mengukuhkan peraturan-Nya. Maksudnya, Allah SWT bersemayam di atas Arasy dengan kebesaran dan keagungan yang layak bagi-Nya, tanpa menyerupai mana-mana makhluk dan tanpa diketahui hakikatnya, sebagaimana Dia sendiri yang Maha Melihat segala yang kelihatan dan Maha Mengetahui segala yang ghaib.
+
+Firman Allah SWT: مَا لَكُم مِّن دُونِهِ مِن وَلِيٍّ وَلَا شَفِيعٍ – Wahai orang-orang kafir dan selainnya, tiada bagi kamu seorang penolong pun selain daripada Allah SWT, tiada juga pemberi syafaat melainkan dengan izin-Nya. Tidak ada sesiapa pun yang mampu menghalang azab Allah atau mengambil alih urusan kamu. Firman Allah SWT: أَفَلَا تَتَذَكَّرُونَ – Adakah kamu tidak mahu memerhati, merenung, dan mengambil iktibar untuk kembali kepada Allah SWT yang tiada sekutu bagi-Nya, tiada tandingan atau pembantu, serta tiada Tuhan selain Dia?
+
+Maksudnya di sini adalah dorongan supaya manusia beriman kepada Allah SWT semata-mata, sebagai Ilah dan Rabb yang satu-satunya layak disembah dan ditaati. Allah SWT berfirman:
+"Ingatlah! Segala penciptaan dan urusan adalah hak-Nya. Maha Suci Allah, Tuhan sekalian alam." (al-A‘raaf: 54)
+
+Firman Allah SWT: يُدَبِّرُ الْأَمْرَ مِنَ السَّمَاءِ إِلَى الْأَرْضِ – Allah SWT mengatur segala urusan dari langit ke bumi. Segala hasil dan pelaksanaan urusan itu kembali kepada-Nya, disampaikan oleh para malaikat. Hal ini untuk menggambarkan kebesaran Allah SWT dan ketundukan seluruh makhluk kepada perintah-Nya.
+
+Firman Allah SWT: ثُمَّ يَعْرُجُ إِلَيْهِ فِي يَوْمٍ – Urusan itu kembali kepada Allah dalam satu tempoh masa yang panjang, yang diumpamakan seperti seribu tahun menurut kiraan manusia. Ia menggambarkan betapa dahsyat dan panjangnya urusan pada hari Kiamat bagi orang kafir, manakala bagi orang mukmin ia terasa singkat, seperti waktu untuk menunaikan satu solat fardu. Dalam ayat lain, Allah menyebut tempoh ini sebagai lima puluh ribu tahun (al-Ma‘aarij: 4), menunjukkan betapa sukarnya hari itu bagi orang kafir, tetapi bagi orang beriman ia cepat berlalu.
+
+Firman Allah SWT: ذَٰلِكَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ – Zat yang Maha Mengetahui segala yang ghaib dan yang nyata, Maha Kuasa atas segala sesuatu, mengatur dan menundukkan seluruh makhluk, serta memberi rahmat kepada hamba-hamba-Nya yang beriman.
+
+Selepas menegaskan tauhid melalui bukti penciptaan langit dan bumi, Allah SWT mengemukakan bukti lain melalui penciptaan manusia. Firman Allah SWT: الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ – Dialah yang mencipta setiap sesuatu dengan sempurna, teliti dan rapi. Allah memulakan penciptaan manusia daripada tanah, iaitu Adam a.s., yang diciptakan daripada tanah liat yang terdiri daripada unsur bumi.
+
+Firman Allah SWT: وَبَدَأَ خَلْقَ الْإِنسَانِ مِن طِينٍ – Penciptaan manusia bermula daripada tanah, yang melalui proses menjadi air mani (nutfah) hasil percampuran antara lelaki dan perempuan. Firman Allah SWT: ثُمَّ جَعَلَ نَسْلَهُ مِن سُلَالَةٍ مِّن مَّاءٍ مَّهِينٍ – Allah menjadikan keturunan manusia daripada pati air yang hina. Kemudian Allah menyempurnakan bentuk tubuh manusia dan meniupkan ruh ke dalamnya, mengurniakan pendengaran, penglihatan, dan akal fikiran supaya mereka mampu mendengar, melihat, memahami, dan membezakan antara yang benar dan batil.
+
+Firman Allah SWT: قَلِيلًا مَّا تَشْكُرُونَ – Namun sedikit sekali manusia yang bersyukur atas nikmat tersebut. Cara mensyukurinya adalah dengan menggunakan pancaindera itu pada jalan ketaatan kepada Allah SWT dan mencari keredaan-Nya.
+
+## Fiqh Kehidupan dan Hukum-Hukum
+
+Ayat-ayat ini menunjukkan beberapa perkara seperti berikut:
+
+1. **Bukti keesaan dan kesempurnaan kekuasaan Allah SWT**
+   Terdapat banyak bukti dan petunjuk yang menunjukkan keesaan Allah SWT, kesempurnaan-Nya, dan kekuasaan-Nya yang mutlak. Semua ini dapat diperhatikan oleh manusia yang mahu mendengar al-Quran, merenungkannya, dan mentadabburinya.
+   Antara bukti-bukti tersebut ialah penciptaan langit dan bumi, serta penegakan keduanya daripada keadaan tiada kepada wujud, setelah sebelumnya tidak ada apa-apa. Penciptaan langit dan bumi itu berlaku dalam beberapa bahagian masa yang hanya Allah SWT sahaja mengetahui kadar lamanya secara pasti dan terperinci.
+
+    Namun, supaya kita lebih mudah memahami dan menghayatinya, Allah SWT menyebutkan tempoh masa tersebut dengan ungkapan “dalam enam hari” (سِتَّةِ أَيَّامٍ).
+
+    Ulama tafsir berbeza pendapat mengenai maksud enam hari tersebut:
+
+    Ibnu Abbas berpendapat bahawa satu hari daripada enam hari tersebut bersamaan dengan seribu tahun menurut kiraan dunia.
+
+    Adh-Dhahhak pula menyatakan bahawa maksudnya ialah enam ribu tahun.
+
+2. **Makna al-Istiwaa’ atas Arasy**
+   Al-Istiwaa’ di sini bermaksud keagungan dan kesempurnaan Allah SWT yang tidak dapat ditentukan bagaimana bentuknya atau di mana letaknya. Ini adalah pendapat yang lebih sahih.
+
+    Maksudnya juga membawa kepada makna kekuasaan, penguasaan, autoriti, hegemoni, kawalan, dan dominasi Allah SWT terhadap seluruh alam semesta yang diciptakan-Nya. Peristiwa ini berlaku serentak dengan penciptaan langit dan bumi. Oleh itu, kata sambung waw (وَ) dalam ayat tersebut bukanlah menunjukkan tertib atau urutan masa, tetapi hanyalah kata penghubung.
+
+3. **Allah SWT sebagai Wali bagi orang Mukmin**
+   Sesungguhnya Allah SWT adalah Wali, Pelindung dan Penjaga bagi orang-orang Mukmin. Dialah yang menjamin urusan mereka, menguruskan maslahat mereka, membantu mereka, serta memberi syafaat kepada mereka.
+
+    Apabila manusia melanggar keredhaan-Nya sehingga mendapat kemurkaan-Nya, mereka tidak akan menemui seorang pun penolong yang dapat menghalang azab daripada mereka, dan tidak juga menemui seorang pemberi syafaat yang akan membela mereka.
+
+    Orang-orang kafir tidak memiliki seorang pun penolong atau pemberi syafaat yang dapat menyelamatkan mereka daripada hukuman Allah SWT. Maka, tidakkah wajar bagi mereka yang berakal dan insaf untuk mengambil iktibar serta pengajaran tentang kuasa Allah SWT dan segala ciptaan-Nya?
+
+4. **Penetapan urusan selepas penciptaan alam**
+   Selepas mencipta alam semesta, Allah SWT menetapkan, mengatur, mengurus dan memerintahkan segala sistem yang berlaku ke atas alam ini. Segala perintah dan urusan itu kembali kepada-Nya pada Hari Kiamat.
+
+    Firman Allah SWT:
+
+    > تَعْرُجُ الْمَلَائِكَةُ وَالرُّوحُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ(٤)
+    >
+    > Yang dilalui oleh malaikat-malaikat dan Jibril ke pusat pemerintahanNya (untuk menerima dan menyempurnakan tugas masing-masing, terutama) pada satu masa yang adalah tempohnya (dirasai oleh orang-orang yang bersalah) sungguh panjang, (kerana banyak hitungan hisab dan berat soal jawabnya). [Al-Ma’aarij: 4](https://quran.com/ms/70/4)
+
+    Menurut az-Zamakhsyari dalam Tafsir al-Kassyaf, maksud perintah di sini ialah sesuatu yang diperintahkan oleh Allah SWT berupa amal ketaatan dan amal soleh. Allah SWT menurunkannya dari langit ke bumi, lalu amal tersebut menunggu sehingga ada hamba-hamba yang mengamalkannya dengan penuh keikhlasan sesuai dengan kehendak dan keredhaan-Nya. Kemudian amal itu akan naik kembali kepada-Nya. Tempoh masa yang diperlukan untuk amal tersebut naik adalah panjang kerana sedikitnya hamba yang mengamalkannya dengan ikhlas.
+
+5. **Ilmu Allah SWT meliputi segala yang ghaib dan nyata**
+   Allah SWT mencipta, mengatur, mengurus, memerintah, dan menghentikan segala urusan dunia dengan Hari Kiamat. Dia mengetahui segala yang ghaib dan yang nyata. Tiada satu pun maslahat atau urusan yang terlepas daripada pengetahuan-Nya. Tiada juga sebarang amal atau perbuatan makhluk yang tersembunyi daripada-Nya.
+
+    Kenyataan ini membawa makna ancaman, iaitu supaya manusia menyucikan semua perbuatan dan perkataan mereka, kerana Allah SWT pasti akan membalas segala amal perbuatan mereka.
+
+6. Kuasa Allah SWT dalam mencipta manusia dan nikmat-nikmat yang dianugerahkan
+   Allah SWT mencipta manusia pertama, iaitu Nabi Adam AS, daripada tanah. Kemudian Dia menjadikan keturunannya berkembang biak daripada air mani yang hina dan lemah. Allah SWT menyempurnakan bentuk mereka, meniupkan roh ke dalam tubuh mereka, dan menciptakan pendengaran, penglihatan, serta akal fikiran sebagai alat untuk memahami kebenaran dan petunjuk.
+
+Nikmat-nikmat ini sepatutnya disyukuri, dihargai, dan dihayati. Namun, kebanyakan manusia kufur dan tidak bersyukur, hanya sedikit sahaja yang benar-benar bersyukur.
+
+Urutan penyebutan pendengaran dahulu, kemudian penglihatan, dan seterusnya akal fikiran adalah berdasarkan hikmah. Manusia mula-mula mendengar, kemudian melihat, lalu memahami. Pendengaran disebut dalam bentuk mashdar (kata dasar) kerana ia menggambarkan potensi mendengar itu sendiri, manakala penglihatan dan akal disebut dalam bentuk isim kerana ia menggambarkan tempat potensi tersebut.
