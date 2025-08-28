@@ -522,8 +522,143 @@ Dari ayat-ayat tersebut, boleh diambil beberapa kesimpulan seperti berikut:
 
     Oleh itu, keimanan orang-orang Mukmin terjadi dengan kehendak mereka, dan mereka tidak boleh menghendaki kecuali jika Allah SWT menghendaki.
 
-    Sementara itu, Ahlus Sunnah mempunyai pandangan yang sederhana dan pertengahan, tidak mengatakan seperti pendapat Jabariyyah dan tidak pula mengatakan seperti pendapat Qadariyyah. Sebaik-baik urusan adalah yang pertengahan. Mereka berkata, “Kami membezakan antara apa yang berlaku di luar kehendak kami dan tidak dapat kami elakkan, dengan apa yang berlaku berdasarkan keinginan, pilihan, kesedaran, dan kemahuan kami sendiri. Hal ini dapat diilustrasikan seperti pergerakan menggigil yang berlaku secara refleks di luar kawalan, keinginan dan kemahuan sendiri, dengan pergerakan yang berlaku secara sengaja atas kehendak dan kemahuan sendiri.”
+    Sementara itu, Ahlus Sunnah mempunyai pandangan yang sederhana dan pertengahan, tidak mengatakan seperti pendapat Jabariyyah dan tidak pula mengatakan seperti pendapat Qadariyyah. Sebaik-baik urusan adalah yang pertengahan. Mereka berkata, “_Kami membezakan antara apa yang berlaku di luar kehendak kami dan tidak dapat kami elakkan, dengan apa yang berlaku berdasarkan keinginan, pilihan, kesedaran, dan kemahuan kami sendiri. Hal ini dapat diilustrasikan seperti pergerakan menggigil yang berlaku secara refleks di luar kawalan, keinginan dan kemahuan sendiri, dengan pergerakan yang berlaku secara sengaja atas kehendak dan kemahuan sendiri._”
 
     Pendekatan pertengahan ini mereka sebut dengan istilah al-Kasb. Penamaan ini mereka ambil daripada al-Quran, iaitu ayat {لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ} "_Ia mendapat pahala kebaikan yang diusahakannya, dan ia juga menanggung dosa kejahatan yang diusahakannya._" [Al-Baqarah: 286](https://quran.com/2/286).
 
-6. Pada hari Kiamat, dikatakan kepada orang-orang kafir sebagai bentuk kecaman dan celaan, “Rasakanlah azab ini disebabkan oleh sikap kamu yang mendustakan rasul-rasul Allah SWT, mengingkari {بَعْث} (kebangkitan), dan tidak mahu beramal sebagai persediaan menghadapi {بَعْث} seperti orang yang melupakan, mengabaikan, dan melalaikannya. Allah SWT memperlakukan kamu seperti perlakuan terhadap orang yang melupakan dan mencampakkan, iaitu melupakan dan mencampakkan mereka. Maka balasan ini setimpal dengan perbuatan. Rasakanlah azab yang kekal selama-lamanya ini di dalam neraka Jahannam disebabkan oleh maksiat dan kedurhakaan kamu ketika di dunia.”
+6. Pada hari Kiamat, dikatakan kepada orang-orang kafir sebagai bentuk kecaman dan celaan, “_Rasakanlah azab ini disebabkan oleh sikap kamu yang mendustakan rasul-rasul Allah SWT, mengingkari_ {بَعْث} _(kebangkitan), dan tidak mahu beramal sebagai persediaan menghadapi_ {بَعْث} _seperti orang yang melupakan, mengabaikan, dan melalaikannya. Allah SWT memperlakukan kamu seperti perlakuan terhadap orang yang melupakan dan mencampakkan, iaitu melupakan dan mencampakkan mereka. Maka balasan ini setimpal dengan perbuatan. Rasakanlah azab yang kekal selama-lamanya ini di dalam neraka Jahannam disebabkan oleh maksiat dan kedurhakaan kamu ketika di dunia._”
+
+# SIFAT ORANG-ORANG MUKMIN DI DUNIA DAN BALASAN BAGI MEREKA DI SISI TUHAN MEREKA DI AKHIRAT
+
+> إِنَّمَا يُؤْمِنُ بِآيَاتِنَا الَّذِينَ إِذَا ذُكِّرُوا بِهَا خَرُّوا سُجَّدًا وَسَبَّحُوا بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ (۱٥) تَتَجَافَىٰ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ (۱٦) فَلَا تَعْلَمُ نَفْسٌ مَّا أُخْفِيَ لَهُم مِّن قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ (۱۷)
+>
+> Sesungguhnya yang sebenar-benar beriman kepada ayat-ayat keterangan Kami hanyalah orang-orang yang apabila diberi peringatan dan pengajaran dengan ayat-ayat itu, mereka segera merebahkan diri sambil sujud (menandakan taat patuh), dan menggerakkan lidah dengan bertasbih serta memuji Tuhan mereka, dan mereka pula tidak bersikap sombong takbur. (15) Mereka merenggangkan diri dari tempat tidur, (sedikit sangat tidur, kerana mengerjakan sembahyang tahajjud dan amal-amal soleh); mereka sentiasa berdoa kepada Tuhan mereka dengan perasaan takut (akan kemurkaanNya) serta dengan perasaan ingin memperolehi lagi (keredaanNya); dan mereka selalu pula mendermakan sebahagian dari apa yang Kami beri kepada mereka. (16) Maka tidak ada seseorang pun yang mengetahui satu persatu persediaan yang telah dirahsiakan untuk mereka (dari segala jenis nikmat) yang amat indah dipandang dan mengembirakan, sebagai balasan bagi amal-amal soleh yang mereka telah kerjakan. (17)
+
+## Qiraa’aat
+
+{أُخْفِيَ} Hamzah membaca {أَخْفَيْتُ}.
+
+## I’raab
+
+{تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ} kalimah {تَتَجَافَى جُنُوبُهُمْ} adalah jumlah fi’liyyah berkedudukan i’raab _nashab_ sebagai _haal_ daripada _dhomir_ yang terdapat pada _fi’il_ {خَرُّوا}. Demikian juga halnya dengan kalimah {يَدْعُونَ رَبَّهُمْ} dan kata {خَوْفًا} kalimah {وَهُمْ لَا يَسْتَكْبِرُونَ} dan kalimah {وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ} semuanya berkedudukan i’raab nashab sebagai _haal_ daripada _dhomir wawu_ jamak yang terdapat pada _fi’il_ {خَرُّوا} dan {سَبَّحُوا}.
+
+Kalimah {خَوْفًا وَطَمَعًا} adakalanya dibaca nashab sebagai _maf’ul li ajlihi_ atau sebagai _maf’ul muthlaq_.
+
+{مَا أُخْفِيَ} kata {مَا} ada kemungkinan adalah _isim maushul_ bermakna {(الذي)} sedangkan _shilah_-nya adalah {أُخْفِيَ} sedangkan ‘aa-idnya dikira-kirakan. Kata {مَا} di sini dibaca nashab sebagai _maf’ul bihi_ untuk _fi’il_ {تَعْلَمُ}.
+
+Atau boleh juga sebagai maa _istifhaamiyyah_, berkedudukan sebagai mubtada’, sedangkan khabar-nya adalah {أُخْفِيَ}.
+
+## Balaaghah
+
+{تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ} kalimat ini merupakan _kinayah_ (kiasan) tentang banyak beribadah pada waktu malam.
+
+{خَوْفًا وَطَمَعًا} di antara kedua kata ini terdapat _ath-Thibaaq_ (perlawanan makna yang indah).
+
+## Mufradaat Lughawiyyah
+
+{بِآيَاتِنَا} Al-Quran.
+{الَّذِينَ إِذَا ذُكِّرُوا بِهَا} ialah mereka yang apabila diingatkan dan dinasihati dengan ayat-ayat Kami itu.
+
+{خَرُّوا سُجَّدًا} mereka langsung bersujud kerana takut akan azab Allah SWT.
+
+{وَسَبَّحُوا بِحَمْدِ رَبِّهِمْ} dan mereka bertasbih dengan memuji Tuhan mereka, menyucikan-Nya daripada segala perkara yang tidak layak bagi-Nya seperti kelemahan dan ketidakmampuan melakukan {بَعْث} (kebangkitan), sambil bertahmid kepada-Nya kerana takut akan azab-Nya dan sekaligus sebagai ungkapan rasa syukur atas taufik dan hidayah yang dikurniakan-Nya kepada mereka sehingga mereka menjadi orang Muslim dan Mukmin.
+
+Mereka pun berkata: "Subhaanallaahi wa bi hamdih" {وَهُمْ لَا يَسْتَكْبِرُونَ} sedangkan mereka tidak sombong, tidak angkuh, dan tidak angkuh terhadap keimanan dan ketaatan, tidak seperti sikap orang yang keras kepala, tetap angkuh dalam kekufuran dan enggan untuk beriman.
+
+{تَتَجَافَى} terangkat dan meninggalkan.
+
+{جُنُوبُهُمْ} bentuk jamak daripada {جَنْب} yang bererti salah satu sisi tubuh manusia.
+
+{الْمَضَاجِعِ} dari alas atau tempat tidur. Bentuk jamak daripada {المَضْجَع} yang bererti tempat tidur atau tempat berbaring merebahkan tubuh.
+
+{يَدْعُونَ رَبَّهُمْ} dalam keadaan mereka berdoa kepada Tuhan mereka.
+
+{خَوْفًا} dengan penuh rasa takut akan murka dan hukuman-Nya.
+
+{وَطَمَعًا} dan penuh pengharapan kepada rahmat-Nya.
+
+Nabi Muhammad SAW menafsirkan ayat ini dengan qiyamul lail.
+
+{وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ} dan mereka berinfaq serta bersedekah daripada sebahagian rezeki yang Kami kurniakan kepada mereka di jalan kebaikan.
+
+{فَلَا تَعْلَمُ نَفْسٌ} tidak ada seorang pun yang mengetahui, sama ada dia itu malaikat muqarrabin, seorang nabi atau rasul sekalipun.
+
+{مَا أُخْفِيَ لَهُم} apa yang disediakan dan disembunyikan untuk mereka.
+
+{مِن قُرَّةِ أَعْيُنٍ} berupa sesuatu yang menyenangkan mata dan membahagiakan hati.
+
+Rasulullah SAW, dalam sebuah hadis yang diriwayatkan oleh Imam Muslim dan lainnya daripada Abu Hurairah, bersabda:
+
+> وعن أبي هريرة رضي الله عنه قال‏: ‏ قال رسول الله صلى الله عليه وسلم ‏: ‏ ‏"‏قال الله تعالى أعددت لعبادي الصالحين ما لا عين رأت ولا أذن سمعت ولا خطر على قلب بشر، واقرؤوا إن شئتم‏: ‏ ‏{‏فلا تعلم نفس ما أخفي لهم من قرة أعين جزاء بما كانوا يعملون‏}‏ ‏(‏‏(‏السجدة‏: ‏17‏)‏‏)‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏
+>
+> Abu Hurairah (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, "Allah, the Exalted, has said: 'I have prepared for my righteous slaves what no eye has seen, no ear has heard, and the mind of no man has conceived.' If you wish, recite: 'No person knows what is kept hidden for them of joy as a reward for what they used to do."' (32: 17). [Al-Bukhari and Muslim, Riyad as-Salihin 1881](https://sunnah.com/riyadussalihin:1881)
+
+## Sebab Turunnya Ayat
+
+    Al-Bazzar meriwayatkan daripada Bilal, beliau berkata: “Kami duduk-duduk di masjid, sementara ada sejumlah sahabat yang setelah menunaikan solat Maghrib mereka mengerjakan solat lagi sehingga Isyak, lalu turunlah ayat ini.” Akan tetapi, dalam isnad (silsilah perawi) hadis ini terdapat perawi dha‘if.
+
+    Keterangan serupa disebutkan oleh al-Wahidi dan an-Naisaburi daripada Malik bin Dinar, beliau berkata: “Aku bertanya kepada Anas bin Malik tentang ayat ini, menyangkut siapakah ayat ini turun?” Lalu beliau berkata: “Ada sejumlah sahabat Rasulullah SAW mengerjakan solat dari Maghrib sehingga Isyak, lalu Allah SWT pun menurunkan ayat ini menyangkut diri mereka.” Keterangan ini juga diriwayatkan daripada Qatadah dan Ikrimah.
+
+    At-Tirmidzi meriwayatkan daripada Anas: “Ayat ini turun menyangkut masalah menunggu datangnya waktu solat Isyak setelah selesai solat Maghrib.” At-Tirmidzi memasukkan riwayat ini ke dalam kategori riwayat sahih.
+
+    Diriwayatkan daripada Mu‘adz bin Jabal daripada Rasulullah SAW, beliau bersabda berkenaan ayat ini:
+
+    {هِيَ قِيَامُ الْعَبْدِ أَوَّلَ اللَّيْلِ}
+    “Itulah solatnya seorang hamba pada awal waktu malam.”
+
+    Hasan al-Bashri, Mujahid, Malik, dan al-Awza‘i mengatakan bahawa ayat ini turun menyangkut orang-orang yang bertahajud yang menghidupkan waktu malam sehingga datangnya waktu solat.
+
+    Keabsahan dan keautentikan sebab dan latar belakang ayat ini ditunjukkan oleh hadis yang diriwayatkan oleh Imam Ahmad, at-Tirmidzi, an-Nasa’i, Ibnu Majah dalam Sunan mereka, Ibnu Jarir, al-Hakim, dan Ibnu Murdawaih daripada Mu‘adz bin Jabal, beliau bercerita:
+
+    > {حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُعَاذٍ الصَّنْعَانِيُّ، عَنْ مَعْمَرٍ، عَنْ عَاصِمِ بْنِ أَبِي النَّجُودِ، عَنْ أَبِي وَائِلٍ، عَنْ مُعَاذِ بْنِ جَبَلٍ، قَالَ كُنْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم فِي سَفَرٍ فَأَصْبَحْتُ يَوْمًا قَرِيبًا مِنْهُ وَنَحْنُ نَسِيرُ فَقُلْتُ يَا رَسُولَ اللَّهِ أَخْبِرْنِي بِعَمَلٍ يُدْخِلُنِي الْجَنَّةَ وَيُبَاعِدُنِي مِنَ النَّارِ ‏.‏ قَالَ ‏"‏ لَقَدْ سَأَلْتَنِي عَنْ عَظِيمٍ وَإِنَّهُ لَيَسِيرٌ عَلَى مَنْ يَسَّرَهُ اللَّهُ عَلَيْهِ تَعْبُدُ اللَّهَ وَلاَ تُشْرِكُ بِهِ شَيْئًا وَتُقِيمُ الصَّلاَةَ وَتُؤْتِي الزَّكَاةَ وَتَصُومُ رَمَضَانَ وَتَحُجُّ الْبَيْتَ ‏"‏ ‏.‏ ثُمَّ قَالَ ‏"‏ أَلاَ أَدُلُّكَ عَلَى أَبْوَابِ الْخَيْرِ الصَّوْمُ جُنَّةٌ وَالصَّدَقَةُ تُطْفِئُ الْخَطِيئَةَ كَمَا يُطْفِئُ الْمَاءُ النَّارَ وَصَلاَةُ الرَّجُلِ مِنْ جَوْفِ اللَّيْلِ ‏"‏ ‏.‏ قَالَ ثُمَّ تَلاََ‏:‏ ‏(‏ تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ ‏)‏ حَتَّى بَلَغَ‏:‏ ‏(‏يَعْمَلُونَ‏)‏ ثُمَّ قَالَ ‏"‏ أَلاَ أُخْبِرُكَ بِرَأْسِ الأَمْرِ كُلِّهِ وَعَمُودِهِ وَذِرْوَةِ سَنَامِهِ ‏"‏ ‏.‏ قُلْتُ بَلَى يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏"‏ رَأْسُ الأَمْرِ الإِسْلاَمُ وَعَمُودُهُ الصَّلاَةُ وَذِرْوَةُ سَنَامِهِ الْجِهَادُ ‏"‏ ‏.‏ ثُمَّ قَالَ ‏"‏ أَلاَ أُخْبِرُكَ بِمَلاَكِ ذَلِكَ كُلِّهِ ‏"‏ ‏.‏ قُلْتُ بَلَى يَا نَبِيَّ اللَّهِ قَالَ فَأَخَذَ بِلِسَانِهِ قَالَ ‏"‏ كُفَّ عَلَيْكَ هَذَا ‏"‏ ‏.‏ فَقُلْتُ يَا نَبِيَّ اللَّهِ وَإِنَّا لَمُؤَاخَذُونَ بِمَا نَتَكَلَّمُ بِهِ فَقَالَ ‏"‏ ثَكِلَتْكَ أُمُّكَ يَا مُعَاذُ وَهَلْ يَكُبُّ النَّاسَ فِي النَّارِ عَلَى وُجُوهِهِمْ أَوْ عَلَى مَنَاخِرِهِمْ إِلاَّ حَصَائِدُ أَلْسِنَتِهِمْ ‏"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏}
+    >
+    > “_Aku bersama Rasulullah SAW dalam suatu perjalanan, lalu suatu pagi aku berjalan di dekat Rasulullah SAW, lalu aku berkata: ‘Wahai Rasulullah, beritahu aku tentang amal perbuatan yang akan memasukkan aku ke syurga dan menjauhkan aku dari neraka.’ Lalu beliau berkata: ‘Kamu telah bertanya tentang sesuatu yang besar, dan sesuatu itu mudah dan ringan bagi siapa yang Allah SWT mudahkan dan meringankannya untuknya, iaitu kamu menyembah Allah SWT dan tidak menyekutukan sesuatu apa pun dengan-Nya, mendirikan solat, membayar zakat, berpuasa Ramadhan, dan menunaikan ibadah haji ke Baitullah.’ Kemudian beliau kembali bersabda: ‘Mahukah kamu aku beritahu tentang gerbang kebaikan? Puasa adalah perisai, sedekah memadamkan kesalahan sebagaimana air memadamkan api, dan solatnya seseorang di tengah malam.’ Kemudian beliau membaca ayat 16-17 surah as-Sajdah. Kemudian beliau kembali bersabda: ‘Mahukah kamu aku beritahu tentang kepalanya urusan, tiangnya, dan puncaknya?’ Aku berkata: ‘Tentu saja wahai Rasulullah.’ Lalu beliau bersabda: ‘Kepalanya urusan dari semua hal adalah Islam, tiangnya adalah solat, dan puncaknya adalah jihad di jalan Allah.’_”
+    >
+    > Kemudian beliau kembali berkata: “_Mahukah kamu aku beritahu tentang tulang belakang semua itu?” Aku berkata: “Tentu saja wahai Rasulullah.” Lalu beliau memegang mulut beliau seraya berkata: “Jagalah ini (mulut).” Aku berkata: “Wahai Rasulullah, apakah kita akan dituntut pertanggungjawaban atas apa yang kita ucapkan?” Beliau berkata: “Semoga ibumu akan kehilangan kamu, wahai Mu‘adz. Bukankah orang diseret dan dilemparkan ke neraka lantaran hasil daripada apa yang diucapkan oleh mulut mereka._”
+    > [HR Imam Ahmad, at-Tirmidzi, an-Nasa’i, Ibnu Majah, Ibnu Jarir, al-Hakim, dan Ibnu Murdawaih; Jami` at-Tirmidhi 2616](https://sunnah.com/tirmidhi:2616)
+
+## Persesuaian Ayat
+
+Setelah menerangkan keadaan orang-orang kafir ketika menjalani proses hisab pada hari Kiamat, bagaimana kepala mereka tertunduk lesu kerana malu dan hina, berikut azab yang kekal yang mesti mereka jalani, Allah SWT menerangkan keadaan orang-orang beriman ketika di dunia, bagaimana mereka taat kepada Allah, mengagungkan-Nya, bertahmid kepada-Nya dan mendekatkan diri kepada-Nya dengan amalan-amalan sunnah, berikut kenikmatan, kesenangan dan kebahagiaan yang telah dipersiapkan untuk mereka sebagai balasan dan penghargaan atas amal-amal mereka.
+
+## Tafsir dan Penjelasan
+
+{إِنَّمَا يُؤْمِنُ بِآيَاتِنَا الَّذِينَ إِذَا ذُكِّرُوا بِهَا خَرُّوا سُجَّدًا وَسَبَّحُوا بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ} sesungguhnya orang yang mengimani, membenarkan dan mempercayai ayat-ayat al-Quran, ayat-ayat kauniah serta para rasul, tidak lain adalah mereka yang apabila diberi mauʿiẓah (nasihat peringatan) dengan ayat-ayat itu serta mendengarkan ayat-ayat itu dibacakan kepada mereka, mereka langsung menyungkur bersujud kepada Allah SWT dengan penuh ketundukan, kekhusyukan dan kepatuhan, serta sebagai bentuk pengikraran akan penghambaan.
+
+Dalam sujud itu, mereka bertasbih menyucikan Allah SWT dari segala hal yang tidak layak bagi-Nya berupa segala sesuatu yang berbau syirik seperti memiliki pasangan, anak, sekutu dan tandingan. Mereka melakukan hal itu seraya bertahmid memanjatkan pujian kepada-Nya atas segala nikmat dan kurnia-Nya. Yaitu mereka memadukan dan menggabungkan antara tasbih dan tahmid dengan berucap, {سُبْحَانَ اللهِ وَبِحَمْدِهِ سُبْحَانَ رَبِّنَا الأَعْلَى}.
+
+Di samping itu, kerana hati mereka penuh semarak dengan keimanan, mereka sama sekali tidak sombong dan tidak angkuh untuk taat kepada Allah, mengikuti dan tunduk kepada ayat-ayat itu.
+
+Hal itu bertolak belakang dengan sikap orang-orang kafir yang bodoh lagi jahat, iaitu yang berpaling, sombong, angkuh dan tidak sudi untuk beriman sehingga akibatnya mereka mendapatkan azab yang menyakitkan dan memilukan, sebagaimana firman Allah SWT dalam ayat:
+
+> وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ (٦٠)
+>
+> Dan Tuhan kamu berfirman: "Berdoalah kamu kepadaKu nescaya Aku perkenankan doa permohonan kamu. Sesungguhnya orang-orang yang sombong takbur daripada beribadat dan berdoa kepadaKu, akan masuk neraka Jahannam dalam keadaan hina. [Ghafir](https://quran.com/40/60)
+
+Itulah antara sifat dan spesifikasi orang Mukmin, iaitu beribadah, bertasbih dan bertahmid, taat, tunduk dan patuh.
+
+Selanjutnya, Allah SWT menyebutkan sifat dan spesifikasi mereka yang lain, iaitu bertahajud atau qiyām al-layl, berdoa dengan tulus murni hanya kepada Allah SWT serta berinfak di jalan kebaikan. {تَتَجَافَى جُنُوبُهُمْ عَنِ المَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ} sisi-sisi tubuh mereka terangkat menjauh dan meninggalkan tempat-tempat tidur dan istirahat, bergegas bangkit dengan penuh semangat untuk melakukan qiyām al-layl, jiwa-jiwa mereka merasa tenang, tenteram dan damai dengan bermunajat kepada Allah, hati mereka merasa nyaman, tenteram dan damai dengan beribadah.
+
+Mereka memanjatkan doa kepada Allah dengan doa yang tulus dan sungguh-sungguh dan dilandasi keyakinan dan kepastian akan diperkenankan dengan penuh rasa takut kepada hukuman serta dengan penuh pengharapan kepada rahmat dan pahala yang melimpah.
+
+Mereka juga menginfakkan sebahagian harta kekayaan mereka di jalan kebaikan, kebajikan dan keredaan Allah SWT. Dengan begitu, bererti mereka memadukan dan menggabungkan antara menjalankan amal-amal ibadah individu dan amal-amal ibadah sosial.
+
+> وَعَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: " عَجِبَ رَبُّنَا مِنْ رَجُلَيْنِ رَجُلٌ ثَارَ عَنْ وِطَائِهِ وَلِحَافِهِ مِنْ بَيْنِ حِبِّهِ وَأَهْلِهِ إِلَى صَلَاتِهِ فَيَقُولُ اللَّهُ لِمَلَائِكَتِهِ: انْظُرُوا إِلَى عَبْدِي ثَارَ عَنْ فِرَاشِهِ وَوِطَائِهِ مِنْ بَيْنِ حِبِّهِ وَأَهْلِهِ إِلَى صَلَاتِهِ رَغْبَةً فِيمَا عِنْدِي وَشَفَقًا مِمَّا عِنْدِي وَرَجُلٌ غَزَا فِي سَبِيلِ اللَّهِ فَانْهَزَمَ مَعَ أَصْحَابِهِ فَعَلِمَ مَا عَلَيْهِ فِي الِانْهِزَامِ وَمَا لَهُ فِي الرُّجُوعِ فَرَجَعَ حَتَّى هُرِيقَ دَمُهُ فَيَقُولُ اللَّهُ لِمَلَائِكَتِهِ: انْظُرُوا إِلَى عَبْدِي رَجَعَ رَغْبَةً فِيمَا عِنْدِي وَشَفَقًا مِمَّا عِنْدِي حَتَّى هُرِيقَ دَمُهُ ". رَوَاهُ فِي شَرْحِ السُّنَّةِ
+>
+> ‘Abdallah bin Mas‘ud meriwayatkan bahawa Rasulullah ﷺ bersabda: "Tuhan kita berasa kagum terhadap dua golongan lelaki. Pertama, seorang lelaki yang bangkit dari selimut dan penutupnya, meninggalkan orang-orang yang dikasihinya dan keluarganya untuk menunaikan solat. Allah berfirman kepada para malaikat-Nya: “Lihatlah hamba-Ku yang bangkit dari tempat tidurnya dan selimutnya, meninggalkan orang-orang yang dikasihinya dan keluarganya untuk menunaikan solat kerana menginginkan apa yang ada di sisi-Ku dan takut terhadap apa yang ada di sisi-Ku.”
+>
+> Kedua, seorang lelaki yang keluar berjuang di jalan Allah, lalu dia bersama para sahabatnya mengalami kekalahan. Namun, dengan mengetahui tanggungjawab yang akan dipikulnya kerana berundur, dan pahala yang akan diperolehnya jika kembali, dia memilih untuk kembali ke medan perang sehingga darahnya tertumpah. Allah berfirman kepada para malaikat-Nya: “Lihatlah hamba-Ku yang kembali kerana menginginkan apa yang ada di sisi-Ku dan takut terhadap apa yang ada di sisi-Ku, sehingga darahnya tertumpah.”
+>
+> [Baghawi] meriwayatkannya dalam Sharh as-Sunnah. [Mishkat al-Masabih 1251](https://sunnah.com/mishkat:1251)
+
+Ats-Tsa’labi menuturkan sebuah riwayat marfu’ dari Asma binti Yazid bahawasanya Rasulullah SAW bersabda,
+
+{إِذَا جَمَعَ اللَّهُ الأَوَّلِينَ وَالآخِرِينَ يَوْمَ الْقِيَامَةِ جَاءَ مُنَادٍ يُنَادِي بِصَوْتٍ يَسْمَعُهُ الْخَلاَئِقُ كُلُّهُمْ سَيَعْلَمُ أَهْلُ الْجَمْعِ الْيَوْمَ مَنْ أَوْلَى بِالْكَرَمِ ثُمَّ يَرْجِعُ فَيُنَادِي يَقُومُ الَّذِينَ كَانَتْ تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ فَيَقُومُونَ وَهُمْ قَلِيلٌ ثُمَّ يَرْجِعُ فَيُنَادِي يَقُومُ الَّذِينَ كَانُوا يَحْمَدُونَ اللَّهَ عَلَى كُلِّ حَالٍ فِي السَّرَّاءِ وَالضَّرَّاءِ فَيَقُومُونَ وَهُمْ قَلِيلٌ فَيُسَاقُونَ جَمِيعاً إِلَى الْجَنَّةِ ثُمَّ يُحَاسَبُ سَائِرُ النَّاسِ}
+
+“Ketika Allah SWT menghimpunkan semua manusia terdahulu dan terkemudian, maka datang seorang penyeru lalu menyeru dengan suara yang didengari oleh seluruh makhluk, ‘Pada hari ini seluruh yang hadir akan mengetahui siapakah yang lebih layak diberikan kemuliaan dan penghormatan.’
+
+Kemudian penyeru itu menyeru lagi, ‘Hendaklah bangun orang-orang yang {تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ} (lambung mereka jauh daripada tempat tidur — yakni mereka rajin mengerjakan qiyamul lail atau tahajud).’ Lalu mereka pun bangun dan bilangan mereka sedikit.
+
+Kemudian penyeru itu menyeru lagi, ‘Hendaklah bangun orang-orang yang dahulu sentiasa {يَحْمَدُونَ اللَّهَ عَلَى كُلِّ حَالٍ} (memuji Allah dalam setiap keadaan) sama ada ketika senang mahupun susah.’ Maka mereka pun bangun dan bilangan mereka sedikit.
+
+Lalu mereka semua digiring dan dipandu menuju syurga. Kemudian manusia yang lain selain daripada kedua golongan itu dihisab.”
